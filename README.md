@@ -1,4 +1,4 @@
-# TadweerAI – ذكاء التدوير المجتمعي
+# TadweerAI 
 
 ## Setup
 
@@ -8,31 +8,12 @@
    cd tadweerai
    ```
 
-2. **Create a virtual environment (recommended) and install dependencies:**
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate   # on Windows: venv\Scripts\activate
-   pip install -r requirements.txt
-   ```
-
-3. **Configure your environment variables:**
-   - Copy the example file:
-     ```bash
-     cp .env.example .env
-     ```
-   - Open `.env` and set your OpenAI API key:
-     ```env
-     OPENAI_API_KEY=sk-...
-     ```
-
-4. **Run the app:**
-   ```bash
-   streamlit run app.py
-   ```
-
-5. **Open your browser and navigate to:**
-   ```
-   http://localhost:8501
-   ```
+2. **Execute run.bat**
+	```Open the TadweerAI folder ↓
+	Double click run.bat ↓
+	Let it install dependencies ↓
+	Ctrl + Left click the link provided on the terminal
+	Enjoy!
+	```
 
 Enjoy building and upcycling with AI! 🎉
