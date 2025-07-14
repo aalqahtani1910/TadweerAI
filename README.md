@@ -7,8 +7,12 @@
    git clone https://github.com/yourusername/tadweerai.git
    cd tadweerai
    ```
-
-2. **Execute run.bat**
+2. **Add your API key to the code**
+   ```...
+   client = OpenAI(api_key="ADD-KEY-HERE")
+   ...
+   ```
+3. **Execute run.bat**
 	```Open the TadweerAI folder ↓
 	Double click run.bat ↓
 	Let it install dependencies ↓
